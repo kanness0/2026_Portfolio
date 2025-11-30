@@ -512,7 +512,7 @@ a {
     gap: 64px;
     justify-content: center;
     align-items: center;
-    padding-top: 15%;
+    padding-top: 16%;
 }
 
 /* 왼쪽 정보 박스 */
@@ -521,7 +521,7 @@ a {
 }
 
 .sec7-item-con > .logo {
-    width: 369px;
+    width: 100%;
     height: 68px;
     border-bottom: #000 2px solid;
 }
@@ -572,11 +572,13 @@ a {
 .clip1 {
     width: 85px;
     position: relative;
+    border: red solid 2px;
 }
 
 .clip2 {
     width: 93px;
     position: relative;
+    border: red solid 2px;
 }
 
 /* 오른쪽 종이 링크 박스 */
